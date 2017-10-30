@@ -6,6 +6,7 @@ For many years, `if` statements is all we had though. So, we kept using them. In
 
 Let's walk through the basics of testing. You'll discover it's not too different from what you've experienced in the last few labs. First things first, open up `index.js` in your terminal. You are going to see mostly familiar things:
 
+
 ```javascript
 var name = "Joe"
 var height = "74"
